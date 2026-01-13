@@ -26,3 +26,6 @@ run the program with something like: 'sudo ./TFLuna'
 Below is the breadboard connections with the Raspberry Pi and TF-Luna.
 ![](https://github.com/eugenedakin/lgpio-I2C-TF-Luna/blob/main/LiDARBreadboardRev1.png)
 
+A description of the button functions are shown here
+
+![](https://github.com/eugenedakin/lgpio-I2C-TF-Luna/blob/main/ButtonDescription.png)
