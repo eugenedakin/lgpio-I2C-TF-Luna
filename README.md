@@ -1,7 +1,7 @@
 # lgpio-I2C-TF-Luna
 Uses the lgpio library to get sensor data from TF-Luna using the Xojo programming language on the Raspberry Pi and I2C communication.
 
-The TF-Luna is a LiDAR (Light Radar) that measures accurate, single-point distance measurement in a small package that is ideal for robotics, and obstacle detection. Attached are code from Xojo to retreive and set information on the TF-Luna, the module MDLTFLunaRev1 containing library code that is specific to the TF-Luna.
+The TF-Luna is a LiDAR (Light Radar) that measures accurate, single-point distance measurement in a small package that is ideal for robotics, and obstacle detection. Attached are code from Xojo to retreive and set information on the TF-Luna, the module MDLTFLunaRev17 containing library code that is specific to the TF-Luna.
 
 ![](https://github.com/eugenedakin/lgpio-I2C-TF-Luna/blob/main/TF-LunaScreenGrab.png)
 
